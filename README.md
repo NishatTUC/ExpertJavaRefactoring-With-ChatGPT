@@ -7,7 +7,6 @@ This repository contains supplementary materials for the thesis titled "A Study 
 1. **Raw Data:** Anonymized data collected from participants, including response times and correctness scores.
 2. **Code Snippets:** Java code snippets refactored or reviewed during the study.
 3. **Survey Materials:** Questionnaires and interview scripts used to gather qualitative data.
-4. **Analysis Scripts:** Python/R/other scripts and detailed methodology used for data analysis.
 
 **Usage:**
 Researchers and developers interested in this study can clone or download the repository and follow the README for guidance. Please acknowledge the original thesis in any publications or further research.
